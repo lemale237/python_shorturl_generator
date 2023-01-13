@@ -4,7 +4,7 @@ import requests
 long_url = input("Enter the URL to shorten: ")
 
 # Defines the URL of the Google URL Shortener API
-url = "https://www.googleapis.com/urlshortener/v1/url"
+url = "put API url here"
 
 # Prepares the data for the request
 payload = {"longUrl": long_url}
