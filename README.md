@@ -1,6 +1,6 @@
 # python_shorturl_generator
 
-**URL Shortener
+**URL Shortener**
 
 This script allows the user to shorten a long URL using the Google URL Shortener API.
 Usage
@@ -11,11 +11,11 @@ Usage
     4- Enter the long URL you wish to shorten when prompted
     5- The shortened URL will be printed to the console
 
-**Dependencies
+**Dependencies**
 
 This script requires the requests library to be installed. You can install it by running 
   'pip install requests'
 
-**Note
+**Note**
 
 This script is for demonstration purposes only and is not intended for production use. To use the Google URL Shortener API, you need to have a valid API key.
